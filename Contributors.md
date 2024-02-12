@@ -9,4 +9,4 @@
 - [Kabir Kathuria](https://github.com/kabirkathuria)
 - [Kevin Polackal](https://github.com/kevin-polackal)
 - [Elisabeth Clements](https://github.com/elisabethclements)
-- [Gabi] (https://github.com/gabimitchell4) !
+- [Gabi] (https://github.com/gabimitchell4)
