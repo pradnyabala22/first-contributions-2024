@@ -11,3 +11,4 @@
 - [Elisabeth Clements](https://github.com/elisabethclements)
 - [Gabi](https://github.com/gabimitchell4)
 - [Test](https://www.google.com/)
+- [Tarun Ari](https://github.com/ari-t23)
